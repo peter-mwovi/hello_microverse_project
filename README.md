@@ -32,11 +32,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello_Microverse] <a name="about-project"></a>
+# 📖 Hello_Microverse <a name="about-project"></a>
 
 > This a simple Hello microverse project, to better understand the tools used in microverse
 
-**[Hello_Microverse]** is a simple project
+**Hello_Microverse** is a simple project
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -48,19 +48,15 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[uses_html5]**
-- **[properly_styled]**
-- **[kUtilises_linter]**
+- **uses_html5**
+- **properly_styled**
+- **Utilises_linter**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://vercel.com/)
 
@@ -69,8 +65,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
